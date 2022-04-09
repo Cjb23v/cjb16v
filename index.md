@@ -17,4 +17,4 @@ Tallahassee, Florida, 32306 <br/>
 
 [Email:cjb16v@my.fsu.edu](mailto:cjb16v@my.fsu.edu)
 
-[Web Page:](https://www.linkedin.com/in/caitlin-brown-7a5830210/)
+[Web Page:https://www.linkedin.com/in/caitlin-brown-7a5830210/](https://www.linkedin.com/in/caitlin-brown-7a5830210/)
